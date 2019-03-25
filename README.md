@@ -5,8 +5,7 @@ Test the code by running the app </br>
 
 Ajax : concect the server to get document</br>
 Uploaddata : upload the data to database by AJAX</br>
-Leaflet : basic map set and get the coordinates where the mouse </br>o</br>
-
+Leaflet : basic map set and get the coordinates where the mouse is</br>
 ReMenu : add UCL logo</br>
 Startup : get function run when the app start</br>
 Steps : show screencuts</br>
